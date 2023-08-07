@@ -1,0 +1,95 @@
+/* body, html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    color: brown;
+} */
+.section {
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.section-one {
+  background-image: url(/assests/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg);
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+.text-container,
+.text-container-two,
+.text-container-three,
+.text-container-four,
+.text-container-five {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+.text {
+  background-color: rgba(231, 231, 231, 0.479);
+  color: black;
+  font-size: 70px;
+  padding: 30px;
+  text-transform: uppercase;
+  border-radius: 15px;
+}
+.section-two {
+  padding: 50px 100px;
+  background: color #f4f4f4;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+}
+
+.section-three {
+  background-image: url(/assests/hacker-noon-t2fKRcKF3fw-unsplash.jpg);
+  min-width: 100%;
+  min-height: 800px;
+}
+
+.section-four {
+  color: white;
+  background-color: #666;
+  padding: 50px 100px;
+  text-align: center;
+  font-size: 25px;
+}
+.section-five {
+  background-image: url(/assests/markus-spiske-iar-afB0QQw-unsplash.jpg);
+  min-width: 100%;
+  min-height: 800px;
+}
+.section-six {
+  color: #666;
+  background-color: white;
+  padding: 50px 100px;
+  text-align: center;
+  font-size: 25px;
+}
+.section-seven {
+  background-image: url(/assests/walling-e_MdMMKrgdY-unsplash.jpg);
+  min-width: 100%;
+  min-height: 800px;
+}
+.section-eight {
+  background-color: #666;
+  color: white;
+  padding: 50px 100px;
+  text-align: center;
+  font-size: 25px;
+}
+.section-nine {
+  background-image: url(assests/joan-gamell-XmZ4GDAp9G0-unsplash.jpg);
+  min-width: 100%;
+  min-height: 800px;
+}
+.section-ten {
+  background-color: #666;
+  color: white;
+  padding: 50px 100px;
+  font-size: 25px;
+  text-align: center;
+}
